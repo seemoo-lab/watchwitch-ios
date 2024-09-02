@@ -1,0 +1,10 @@
+Package: net.rec0de.ios.watchwitch
+Name: WatchWitch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Tweak hooking terminusd to allow hackery with Apple Watch communication
+Maintainer: rec0de
+Author: rec0de
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Icon: https://rec0de.net/data/watchwitch/icon-tweak.png

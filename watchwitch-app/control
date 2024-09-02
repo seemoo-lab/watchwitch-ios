@@ -1,0 +1,10 @@
+Package: net.rec0de.ios.watchwitchcompanion
+Name: WatchWitch Companion
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Companion app for the watchwitch tweak, allowing export of apple watch keys and rerouting of wifi communication
+Maintainer: rec0de
+Author: rec0de
+Section: Utilities
+Depends: firmware (>= 12.2) | ${LIBSWIFT}, ws.hbang.common (>= 1.17)
+Icon: https://rec0de.net/data/watchwitch/icon-companion.png

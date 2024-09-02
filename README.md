@@ -11,7 +11,7 @@ Both components require a root-ful iOS jailbreak and have been tested on iOS 14.
 
 ## Usage
 
-![Screenshot](screenshots.png)
+![Screenshot](screenshot.png)
 
 Open the app, you should see the tweak start time being displayed indicating that communication between the tweak and the app is working as intended.
 

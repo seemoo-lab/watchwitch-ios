@@ -7,7 +7,7 @@ To allow the Android app to communicate with the Apple Watch, we have to extract
 * The `watchwitch` tweak, which hooks into the terminus and identityservices daemons to extract keys and config data
 * The `watchwitchcompanion` app, which exposes some settings and sends extracted data to the WatchWitch Android app
 
-Both components require a root-ful iOS jailbreak and have been tested on iOS 14.8. More recent versions and rootless jailbreaks may require minor modifications.
+Both components require a root-ful iOS jailbreak and have been tested on iOS 14.8. More recent versions and rootless jailbreaks may require minor modifications. The companion app requires iOS 14 or upward to work.
 
 ## Usage
 
